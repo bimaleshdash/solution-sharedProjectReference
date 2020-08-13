@@ -1,0 +1,9 @@
+C:\Users\bdash\source\repos\Solution.Test\ProjectReferredCommon\bin\Debug\netstandard2.0\ProjectReferredCommon.deps.json
+C:\Users\bdash\source\repos\Solution.Test\ProjectReferredCommon\bin\Debug\netstandard2.0\ProjectReferredCommon.dll
+C:\Users\bdash\source\repos\Solution.Test\ProjectReferredCommon\bin\Debug\netstandard2.0\ProjectReferredCommon.pdb
+C:\Users\bdash\source\repos\Solution.Test\ProjectReferredCommon\obj\Debug\netstandard2.0\ProjectReferredCommon.csprojAssemblyReference.cache
+C:\Users\bdash\source\repos\Solution.Test\ProjectReferredCommon\obj\Debug\netstandard2.0\ProjectReferredCommon.csproj.CoreCompileInputs.cache
+C:\Users\bdash\source\repos\Solution.Test\ProjectReferredCommon\obj\Debug\netstandard2.0\ProjectReferredCommon.AssemblyInfoInputs.cache
+C:\Users\bdash\source\repos\Solution.Test\ProjectReferredCommon\obj\Debug\netstandard2.0\ProjectReferredCommon.AssemblyInfo.cs
+C:\Users\bdash\source\repos\Solution.Test\ProjectReferredCommon\obj\Debug\netstandard2.0\ProjectReferredCommon.dll
+C:\Users\bdash\source\repos\Solution.Test\ProjectReferredCommon\obj\Debug\netstandard2.0\ProjectReferredCommon.pdb
