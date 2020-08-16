@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj": {}
+    "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj": {
+    "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj",
+        "projectUniqueName": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj",
         "projectName": "ProjectReferredCommon",
-        "projectPath": "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj",
+        "projectPath": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj",
         "packagesPath": "C:\\Users\\bdash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectReferredCommon\\obj\\",
+        "outputPath": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectReferredCommon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -27,7 +27,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "http://packagesource": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/bimaleshdash0510/Hanuman/_packaging/AddProjectFeedName/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
@@ -43,6 +45,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "ClassLibrary1": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

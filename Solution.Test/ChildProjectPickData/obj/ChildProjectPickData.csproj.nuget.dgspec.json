@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ChildProjectPickData\\ChildProjectPickData.csproj": {}
+    "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ChildProjectPickData\\ChildProjectPickData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ChildProjectPickData\\ChildProjectPickData.csproj": {
+    "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ChildProjectPickData\\ChildProjectPickData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ChildProjectPickData\\ChildProjectPickData.csproj",
+        "projectUniqueName": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ChildProjectPickData\\ChildProjectPickData.csproj",
         "projectName": "ChildProjectPickData",
-        "projectPath": "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ChildProjectPickData\\ChildProjectPickData.csproj",
+        "projectPath": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ChildProjectPickData\\ChildProjectPickData.csproj",
         "packagesPath": "C:\\Users\\bdash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ChildProjectPickData\\obj\\",
+        "outputPath": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ChildProjectPickData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj": {
-                "projectPath": "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj"
+              "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj": {
+                "projectPath": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj": {
+    "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj",
+        "projectUniqueName": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj",
         "projectName": "ProjectReferredCommon",
-        "projectPath": "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj",
+        "projectPath": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj",
         "packagesPath": "C:\\Users\\bdash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectReferredCommon\\obj\\",
+        "outputPath": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectReferredCommon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

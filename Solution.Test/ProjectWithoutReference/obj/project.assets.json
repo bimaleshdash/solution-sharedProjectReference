@@ -5843,11 +5843,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectWithoutReference\\ProjectWithoutReference.csproj",
+      "projectUniqueName": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectWithoutReference\\ProjectWithoutReference.csproj",
       "projectName": "ProjectWithoutReference",
-      "projectPath": "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectWithoutReference\\ProjectWithoutReference.csproj",
+      "projectPath": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectWithoutReference\\ProjectWithoutReference.csproj",
       "packagesPath": "C:\\Users\\bdash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectWithoutReference\\obj\\",
+      "outputPath": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectWithoutReference\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

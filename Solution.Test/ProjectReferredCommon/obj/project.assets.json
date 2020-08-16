@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj",
+      "projectUniqueName": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj",
       "projectName": "ProjectReferredCommon",
-      "projectPath": "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj",
+      "projectPath": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectReferredCommon\\ProjectReferredCommon.csproj",
       "packagesPath": "C:\\Users\\bdash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bdash\\source\\repos\\Solution.Test\\ProjectReferredCommon\\obj\\",
+      "outputPath": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectReferredCommon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
