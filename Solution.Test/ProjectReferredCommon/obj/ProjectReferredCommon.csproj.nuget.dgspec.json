@@ -27,7 +27,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://packagesource": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/bimaleshdash0510/Hanuman/_packaging/AddProjectFeedName/nuget/v3/index.json": {}
         },
@@ -45,10 +44,6 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
-            "ClassLibrary1": {
-              "target": "Package",
-              "version": "[2.0.0, )"
-            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

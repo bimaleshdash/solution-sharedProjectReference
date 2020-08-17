@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.2": {
+      "ClassLibrary1/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.2/ClassLibrary1.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.2/ClassLibrary1.dll": {}
+        }
+      },
       "Microsoft.CodeCoverage/16.0.1": {
         "type": "package",
         "compile": {
@@ -1633,6 +1642,17 @@
     }
   },
   "libraries": {
+    "ClassLibrary1/2.0.0": {
+      "sha512": "MAg+tmCe10EjxSv0uSjMdIGK0RS7G0COJzyb+q2niEcYuHq7nFHDONfTJy/lbVdjndw5zC+Jmoe9kM9zfk1mBQ==",
+      "type": "package",
+      "path": "classlibrary1/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "classlibrary1.2.0.0.nupkg.sha512",
+        "classlibrary1.nuspec",
+        "lib/netcoreapp2.2/ClassLibrary1.dll"
+      ]
+    },
     "Microsoft.CodeCoverage/16.0.1": {
       "sha512": "W7WI3iH6At2I/9x2ODgCIIMO0QfpA7ZCoHkeygMLAaz3Nms/GsugKz9N4hkTve2Lj66g2K4CAmbwe6utEH66lw==",
       "type": "package",
@@ -5844,6 +5864,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "ClassLibrary1 >= 2.0.0",
       "MSTest.TestAdapter >= 1.4.0",
       "MSTest.TestFramework >= 1.4.0",
       "Microsoft.NET.Test.Sdk >= 16.0.1",
@@ -5879,7 +5900,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/bimaleshdash0510/Hanuman/_packaging/AddProjectFeedName/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
@@ -5899,6 +5921,10 @@
     "frameworks": {
       "netcoreapp2.2": {
         "dependencies": {
+          "ClassLibrary1": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          },
           "MSTest.TestAdapter": {
             "target": "Package",
             "version": "[1.4.0, )"

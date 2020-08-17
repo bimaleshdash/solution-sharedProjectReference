@@ -1,0 +1,14 @@
+C:\Users\bdash\source\repos\bimaleshdash\solution-sharedProjectReference\Solution.Test\ProjectWithoutReference\bin\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bdash\source\repos\bimaleshdash\solution-sharedProjectReference\Solution.Test\ProjectWithoutReference\bin\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bdash\source\repos\bimaleshdash\solution-sharedProjectReference\Solution.Test\ProjectWithoutReference\bin\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bdash\source\repos\bimaleshdash\solution-sharedProjectReference\Solution.Test\ProjectWithoutReference\bin\Release\netcoreapp2.2\ProjectWithoutReference.deps.json
+C:\Users\bdash\source\repos\bimaleshdash\solution-sharedProjectReference\Solution.Test\ProjectWithoutReference\bin\Release\netcoreapp2.2\ProjectWithoutReference.runtimeconfig.json
+C:\Users\bdash\source\repos\bimaleshdash\solution-sharedProjectReference\Solution.Test\ProjectWithoutReference\bin\Release\netcoreapp2.2\ProjectWithoutReference.runtimeconfig.dev.json
+C:\Users\bdash\source\repos\bimaleshdash\solution-sharedProjectReference\Solution.Test\ProjectWithoutReference\bin\Release\netcoreapp2.2\ProjectWithoutReference.dll
+C:\Users\bdash\source\repos\bimaleshdash\solution-sharedProjectReference\Solution.Test\ProjectWithoutReference\bin\Release\netcoreapp2.2\ProjectWithoutReference.pdb
+C:\Users\bdash\source\repos\bimaleshdash\solution-sharedProjectReference\Solution.Test\ProjectWithoutReference\obj\Release\netcoreapp2.2\ProjectWithoutReference.csprojAssemblyReference.cache
+C:\Users\bdash\source\repos\bimaleshdash\solution-sharedProjectReference\Solution.Test\ProjectWithoutReference\obj\Release\netcoreapp2.2\ProjectWithoutReference.csproj.CoreCompileInputs.cache
+C:\Users\bdash\source\repos\bimaleshdash\solution-sharedProjectReference\Solution.Test\ProjectWithoutReference\obj\Release\netcoreapp2.2\ProjectWithoutReference.AssemblyInfoInputs.cache
+C:\Users\bdash\source\repos\bimaleshdash\solution-sharedProjectReference\Solution.Test\ProjectWithoutReference\obj\Release\netcoreapp2.2\ProjectWithoutReference.AssemblyInfo.cs
+C:\Users\bdash\source\repos\bimaleshdash\solution-sharedProjectReference\Solution.Test\ProjectWithoutReference\obj\Release\netcoreapp2.2\ProjectWithoutReference.dll
+C:\Users\bdash\source\repos\bimaleshdash\solution-sharedProjectReference\Solution.Test\ProjectWithoutReference\obj\Release\netcoreapp2.2\ProjectWithoutReference.pdb
