@@ -1,0 +1,15 @@
+{
+  "headless": false,
+  "debug": true,
+
+  "datahub": {
+    "url": "https://dh.qa.gs1us.org/",
+    "username": ".thaltesklt..",
+    "password": "...ersrs.."
+  },
+
+  "connectionString": {
+    "imis": "Data Source=...; User id=...; Password=...; Initial Catalog=uccdbi; Connection Timeout=300",
+    "DataHub": "Data Source=...; User id=...; Password=...; Initial Catalog=uccdbi; Connection Timeout=300"
+  }
+}

@@ -10,7 +10,7 @@ namespace ChildProjectPickData.System
     {
         public void Checker()
         {
-            var test = new modernParent.Collection.TollSTart("Yes", 5).TollGate();
+           // var test = new modernParent.Collection.TollSTart("Yes", 5).TollGate();
             var tes12t = new ClassLibrary1.Green();
 
         }
