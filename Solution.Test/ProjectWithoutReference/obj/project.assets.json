@@ -5836,35 +5836,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bdash\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\bdash\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectWithoutReference\\ProjectWithoutReference.csproj",
+      "projectUniqueName": "C:\\Users\\bdash\\Desktop\\VisualLearning\\UIPro\\solution-sharedProjectReference\\Solution.Test\\ProjectWithoutReference\\ProjectWithoutReference.csproj",
       "projectName": "ProjectWithoutReference",
-      "projectPath": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectWithoutReference\\ProjectWithoutReference.csproj",
+      "projectPath": "C:\\Users\\bdash\\Desktop\\VisualLearning\\UIPro\\solution-sharedProjectReference\\Solution.Test\\ProjectWithoutReference\\ProjectWithoutReference.csproj",
       "packagesPath": "C:\\Users\\bdash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bdash\\source\\repos\\bimaleshdash\\solution-sharedProjectReference\\Solution.Test\\ProjectWithoutReference\\obj\\",
+      "outputPath": "C:\\Users\\bdash\\Desktop\\VisualLearning\\UIPro\\solution-sharedProjectReference\\Solution.Test\\ProjectWithoutReference\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\bdash\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/bimaleshdash0510/Hanuman/_packaging/AddProjectFeedName/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
@@ -5900,10 +5892,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
