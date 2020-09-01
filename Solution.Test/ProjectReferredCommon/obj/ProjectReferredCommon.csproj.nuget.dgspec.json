@@ -51,10 +51,6 @@
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[3.141.0, )"
-            },
-            "specflow": {
-              "target": "Package",
-              "version": "[3.1.67, )"
             }
           },
           "imports": [

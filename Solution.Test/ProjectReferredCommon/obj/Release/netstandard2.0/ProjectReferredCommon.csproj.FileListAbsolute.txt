@@ -10,9 +10,9 @@ C:\Users\bdash\source\repos\bimaleshdash\solution-sharedProjectReference\Solutio
 C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solution.Test\ProjectReferredCommon\bin\Release\netstandard2.0\ProjectReferredCommon.deps.json
 C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solution.Test\ProjectReferredCommon\bin\Release\netstandard2.0\ProjectReferredCommon.dll
 C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solution.Test\ProjectReferredCommon\bin\Release\netstandard2.0\ProjectReferredCommon.pdb
-C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solution.Test\ProjectReferredCommon\obj\Release\netstandard2.0\ProjectReferredCommon.csprojAssemblyReference.cache
 C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solution.Test\ProjectReferredCommon\obj\Release\netstandard2.0\ProjectReferredCommon.AssemblyInfoInputs.cache
 C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solution.Test\ProjectReferredCommon\obj\Release\netstandard2.0\ProjectReferredCommon.AssemblyInfo.cs
 C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solution.Test\ProjectReferredCommon\obj\Release\netstandard2.0\ProjectReferredCommon.csproj.CoreCompileInputs.cache
 C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solution.Test\ProjectReferredCommon\obj\Release\netstandard2.0\ProjectReferredCommon.dll
 C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solution.Test\ProjectReferredCommon\obj\Release\netstandard2.0\ProjectReferredCommon.pdb
+C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solution.Test\ProjectReferredCommon\obj\Release\netstandard2.0\ProjectReferredCommon.csprojAssemblyReference.cache

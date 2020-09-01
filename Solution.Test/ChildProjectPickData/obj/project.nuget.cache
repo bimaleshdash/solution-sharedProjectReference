@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "n72l2kX3fC7wj9LL6H+aUCqFj7X0agjnSn/GOr8rHWaQVZTtFJQmYyvj4Xl31BHM84X/lBMB72+sNIHMURF83g==",
+  "dgSpecHash": "r6l8RjajtYlYZw8WZNg8Yb1TgTHx/0kYxntE8mPWSBRbmMn5qR47TAwAifX+wGgxCPI0asAvRc9jHbTp63Dr9A==",
   "success": true,
   "projectFilePath": "C:\\Users\\bdash\\Desktop\\VisualLearning\\UIPro\\solution-sharedProjectReference\\Solution.Test\\ChildProjectPickData\\ChildProjectPickData.csproj",
   "expectedPackageFiles": [
@@ -45,7 +45,10 @@
     "C:\\Users\\bdash\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\bdash\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
     "C:\\Users\\bdash\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
-    "C:\\Users\\bdash\\.nuget\\packages\\specflow\\3.1.67\\specflow.3.1.67.nupkg.sha512",
+    "C:\\Users\\bdash\\.nuget\\packages\\specflow\\3.1.62\\specflow.3.1.62.nupkg.sha512",
+    "C:\\Users\\bdash\\.nuget\\packages\\specrun.runner\\3.1.37\\specrun.runner.3.1.37.nupkg.sha512",
+    "C:\\Users\\bdash\\.nuget\\packages\\specrun.specflow\\3.1.37\\specrun.specflow.3.1.37.nupkg.sha512",
+    "C:\\Users\\bdash\\.nuget\\packages\\specrun.specflow.3-1-0\\3.1.37\\specrun.specflow.3-1-0.3.1.37.nupkg.sha512",
     "C:\\Users\\bdash\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Users\\bdash\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\bdash\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
