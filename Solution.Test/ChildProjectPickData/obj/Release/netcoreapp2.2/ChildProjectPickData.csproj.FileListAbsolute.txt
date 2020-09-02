@@ -238,4 +238,6 @@ C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solu
 C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solution.Test\ChildProjectPickData\bin\Release\netcoreapp2.2\TechTalk.SpecRun.dll
 C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solution.Test\ChildProjectPickData\bin\Release\netcoreapp2.2\TechTalk.SpecRun.Common.dll
 C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solution.Test\ChildProjectPickData\bin\Release\netcoreapp2.2\Default1.srprofile
+C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solution.Test\ChildProjectPickData\bin\Release\netcoreapp2.2\testhost.exe
+C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solution.Test\ChildProjectPickData\bin\Release\netcoreapp2.2\testhost.dll
 C:\Users\bdash\Desktop\VisualLearning\UIPro\solution-sharedProjectReference\Solution.Test\ChildProjectPickData\obj\Release\netcoreapp2.2\ChildProjectPickData.csproj.CoreCompileInputs.cache
