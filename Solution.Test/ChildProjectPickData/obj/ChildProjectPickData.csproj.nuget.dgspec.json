@@ -48,11 +48,11 @@
             },
             "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[1.4.0, )"
+              "version": "[2.1.2, )"
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[1.4.0, )"
+              "version": "[2.1.2, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -134,6 +134,14 @@
       "frameworks": {
         "netstandard2.1": {
           "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
             "Selenium.Support": {
               "target": "Package",
               "version": "[3.141.0, )"

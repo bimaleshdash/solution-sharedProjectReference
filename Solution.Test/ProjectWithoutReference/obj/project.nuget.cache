@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Q4H8wUL6TMM5h7BB7zFgWNxTxAiIO/rRVJ1SvPkW9n5ubplqKLPE/ghWpNa/eZTM4J3ihFA1YcEvLtMNn1hHDg==",
+  "dgSpecHash": "k9IkrgErvrh0lx5x2qc7O2pNI5clCEwpRov+fTa0tGe+gHttL37B3NKJcimHMJX43bXqL0bOky5BgIWlN4tIHA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bdash\\Desktop\\VisualLearning\\UIPro\\solution-sharedProjectReference\\Solution.Test\\ProjectWithoutReference\\ProjectWithoutReference.csproj",
   "expectedPackageFiles": [
@@ -19,8 +19,8 @@
     "C:\\Users\\bdash\\.nuget\\packages\\microsoft.testplatform.testhost\\16.0.1\\microsoft.testplatform.testhost.16.0.1.nupkg.sha512",
     "C:\\Users\\bdash\\.nuget\\packages\\microsoft.win32.primitives\\4.0.1\\microsoft.win32.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\bdash\\.nuget\\packages\\microsoft.win32.registry\\4.0.0\\microsoft.win32.registry.4.0.0.nupkg.sha512",
-    "C:\\Users\\bdash\\.nuget\\packages\\mstest.testadapter\\1.4.0\\mstest.testadapter.1.4.0.nupkg.sha512",
-    "C:\\Users\\bdash\\.nuget\\packages\\mstest.testframework\\1.4.0\\mstest.testframework.1.4.0.nupkg.sha512",
+    "C:\\Users\\bdash\\.nuget\\packages\\mstest.testadapter\\2.1.2\\mstest.testadapter.2.1.2.nupkg.sha512",
+    "C:\\Users\\bdash\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512",
     "C:\\Users\\bdash\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\bdash\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\bdash\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",

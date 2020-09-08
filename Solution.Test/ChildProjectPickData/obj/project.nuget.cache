@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0LuHz6kCOMFOrqH5rqf9iBPWG+c/oMZGJimu4gpzofdIuGlw+cV8EEEvgwCv49MU67HF767pNfApsHy/F4hh5A==",
+  "dgSpecHash": "CmMxK8pdZyF/YpAf7mLLN3hiScFzqPvlW6lKFULaXCw6RtgKFyhBByiAQiml0zRoEc+GDp0lshOhpPd3t3xj/A==",
   "success": true,
   "projectFilePath": "C:\\Users\\bdash\\Desktop\\VisualLearning\\UIPro\\solution-sharedProjectReference\\Solution.Test\\ChildProjectPickData\\ChildProjectPickData.csproj",
   "expectedPackageFiles": [
@@ -17,8 +17,8 @@
     "C:\\Users\\bdash\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.7.1\\microsoft.testplatform.objectmodel.16.7.1.nupkg.sha512",
     "C:\\Users\\bdash\\.nuget\\packages\\microsoft.testplatform.testhost\\16.7.1\\microsoft.testplatform.testhost.16.7.1.nupkg.sha512",
     "C:\\Users\\bdash\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\bdash\\.nuget\\packages\\mstest.testadapter\\1.4.0\\mstest.testadapter.1.4.0.nupkg.sha512",
-    "C:\\Users\\bdash\\.nuget\\packages\\mstest.testframework\\1.4.0\\mstest.testframework.1.4.0.nupkg.sha512",
+    "C:\\Users\\bdash\\.nuget\\packages\\mstest.testadapter\\2.1.2\\mstest.testadapter.2.1.2.nupkg.sha512",
+    "C:\\Users\\bdash\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512",
     "C:\\Users\\bdash\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\bdash\\.nuget\\packages\\newtonsoft.json\\10.0.3\\newtonsoft.json.10.0.3.nupkg.sha512",
     "C:\\Users\\bdash\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
